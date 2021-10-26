@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TicTacToe-Remake/static/css/main.f5829726.chunk.css",
+    "main.js": "/TicTacToe-Remake/static/js/main.f4c9d9a8.chunk.js",
+    "main.js.map": "/TicTacToe-Remake/static/js/main.f4c9d9a8.chunk.js.map",
+    "runtime-main.js": "/TicTacToe-Remake/static/js/runtime-main.91b7c77b.js",
+    "runtime-main.js.map": "/TicTacToe-Remake/static/js/runtime-main.91b7c77b.js.map",
+    "static/js/2.e21f871f.chunk.js": "/TicTacToe-Remake/static/js/2.e21f871f.chunk.js",
+    "static/js/2.e21f871f.chunk.js.map": "/TicTacToe-Remake/static/js/2.e21f871f.chunk.js.map",
+    "static/js/3.158b5181.chunk.js": "/TicTacToe-Remake/static/js/3.158b5181.chunk.js",
+    "static/js/3.158b5181.chunk.js.map": "/TicTacToe-Remake/static/js/3.158b5181.chunk.js.map",
+    "index.html": "/TicTacToe-Remake/index.html",
+    "static/css/main.f5829726.chunk.css.map": "/TicTacToe-Remake/static/css/main.f5829726.chunk.css.map",
+    "static/js/2.e21f871f.chunk.js.LICENSE.txt": "/TicTacToe-Remake/static/js/2.e21f871f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TicTacToe-Remake/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b7c77b.js",
+    "static/js/2.e21f871f.chunk.js",
+    "static/css/main.f5829726.chunk.css",
+    "static/js/main.f4c9d9a8.chunk.js"
+  ]
+}
